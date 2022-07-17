@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paras kumar  
 - 👀 I’m interested in BLockchain
-- 🌱 I’m currently learning solidity and blockchain
-- 💞️ I have learned c and c++ languages
+- 🌱 I’m currently working on Javascript
+- 💞️ I have learned c,c++,HTMl,CSS,JS,NodeJs,Solidity languages
 - 📫 How to reach me My Gmail is Paraskumarop@gmail.com
 
 <!---
