@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paras kumar  
 - 👀 I’m interested in BLockchain
-- 🌱 I’m currently working on Javascript
-- 💞️ I have learned c,c++,HTMl,CSS,JS,NodeJs,Solidity languages
+- 🌱 I’m currently working on React
+- 💞️ I have learned c,c++,HTMl,CSS,JS,NodeJs,Solidity,Web3.js more and more
 - 📫 How to reach me My Gmail is Paraskumarop@gmail.com
 
 <!---
