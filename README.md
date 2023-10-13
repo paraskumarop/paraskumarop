@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Paras kumar  
+- 👋 Hi, I’m Paras kumar
+- 🧑‍💻 I'm a web dev
 - 👀 I’m interested in BLockchain
 - 🌱 I’m currently working on React
 - 💞️ I have learned c,c++,HTMl,CSS,JS,NodeJs,Solidity,Web3.js more and more
